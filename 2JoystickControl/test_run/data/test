@@ -1,0 +1,3 @@
+Test Run for speed toggle
+Toggle	Tracck joystick movement	3	SLIDER	Y axis	0	1.0	0.0
+Speed	Increase/decrease speed of movement	1	BUTTON	8	0	0.0	0.0

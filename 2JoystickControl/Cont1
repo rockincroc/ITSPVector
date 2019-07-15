@@ -1,0 +1,12 @@
+USBC
+FB	Front/Back motion of Arm	3	SLIDER	Y axis	0	1.0	0.0
+LR	Left/Right motion of Arm	3	SLIDER	X axis	0	1.0	0.0
+PFB	Pitch Front/Back	3	SLIDER	Z Rotation	0	1.0	0.0
+YLR	Yaw Left/Right	3	SLIDER	Z Axis	0	1.0	0.0
+UD	Y: up/down || X: (Roll?)	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
+Rphi	Right Rotation at base	1	BUTTON	6	0	0.0	0.0
+Lphi	Left Rotation at base	1	BUTTON	5	0	0.0	0.0
+1	Yaw = 0 and pitch = 0	1	BUTTON	1	0	0.0	0.0
+2	Yaw = 0	1	BUTTON	2	0	0.0	0.0
+3	Pitch = 0	1	BUTTON	3	0	0.0	0.0
+4	Point Straight	1	BUTTON	4	0	0.0	0.0

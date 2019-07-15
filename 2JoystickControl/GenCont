@@ -1,0 +1,16 @@
+General Controller Orientation
+RVS	Front/Back and Up/down	3	SLIDER	Y axis	0	1.0	0.0
+RHS	Left/Right and phi left/right	3	SLIDER	X axis	0	1.0	0.0
+LVS	Pitch forward/backward and Up/down	3	SLIDER	Z Rotation	0	1.0	0.0
+LHS	Yaw left/right and phi left/right	3	SLIDER	Z Axis	0	1.0	0.0
+HAT	??	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
+L2	??	1	BUTTON	5	0	0.0	0.0
+R2	??	1	BUTTON	6	0	0.0	0.0
+L1	Toggle left slider	1	BUTTON	7	0	0.0	0.0
+R1	Toggle right slider	1	BUTTON	8	0	0.0	0.0
+Select	??	1	BUTTON	9	0	0.0	0.0
+Start	??	1	BUTTON	10	0	0.0	0.0
+1	Yaw = 0 and Pitch	1	BUTTON	1	0	0.0	0.0
+2	Yaw = 0	1	BUTTON	2	0	0.0	0.0
+3	Pitch = 0	1	BUTTON	3	0	0.0	0.0
+4	??	1	BUTTON	4	0	0.0	0.0
